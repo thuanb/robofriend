@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'STRAWBERRY';
+	font-style: normal;
+	font-weight: normal;
+	src: local('STRAWBERRY'), url('Strawberry Shortcake Supplement Logo.ttf') format('ttf');
+}
+
+h1 {
+	font-family: 'STRAWBERRY';
+	font-weight: 500;
+	color: pink;
+}
