@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robofriend/static/css/main.6979342c.chunk.css",
+    "main.js": "/robofriend/static/js/main.c350c4e5.chunk.js",
+    "main.js.map": "/robofriend/static/js/main.c350c4e5.chunk.js.map",
+    "runtime-main.js": "/robofriend/static/js/runtime-main.2d85b6a6.js",
+    "runtime-main.js.map": "/robofriend/static/js/runtime-main.2d85b6a6.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robofriend/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4b6b2329.chunk.js": "/robofriend/static/js/2.4b6b2329.chunk.js",
+    "static/js/2.4b6b2329.chunk.js.map": "/robofriend/static/js/2.4b6b2329.chunk.js.map",
+    "index.html": "/robofriend/index.html",
+    "precache-manifest.a981e31cc528fbdf60d33a7a716d46d0.js": "/robofriend/precache-manifest.a981e31cc528fbdf60d33a7a716d46d0.js",
+    "service-worker.js": "/robofriend/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robofriend/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.6979342c.chunk.css.map": "/robofriend/static/css/main.6979342c.chunk.css.map",
+    "static/js/2.4b6b2329.chunk.js.LICENSE.txt": "/robofriend/static/js/2.4b6b2329.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriend/static/media/Strawberry Shortcake Supplement Logo.c75f490e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d85b6a6.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4b6b2329.chunk.js",
+    "static/css/main.6979342c.chunk.css",
+    "static/js/main.c350c4e5.chunk.js"
+  ]
+}
